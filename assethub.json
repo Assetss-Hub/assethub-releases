@@ -11,10 +11,10 @@
     ]
   },
   "buy": {
-    "monthlyUrl": "",
-    "lifetimeUrl": "",
-    "monthlyPrice": "£9.99 / month",
-    "lifetimePrice": "£49.99 once",
+    "monthlyUrl": "https://assethub.tebex.io/package/7770754",
+    "lifetimeUrl": "https://assethub.tebex.io/package/7770755",
+    "monthlyPrice": "£10.00 / month",
+    "lifetimePrice": "£150.00 once",
     "storeUrl": "",
     "invite": "https://discord.gg/bF6XdyU7mF",
     "download": "https://github.com/Assetss-Hub/assethub-releases/releases/latest/download/AssetHub-Setup.exe"

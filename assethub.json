@@ -1,7 +1,7 @@
 {
   "appName": "AssetHub",
-  "clientId": "",
-  "guildId": "",
+  "clientId": "1564688583284105446",
+  "guildId": "1556300015994146958",
   "roles": {
     "monthly": [],
     "lifetime": []
@@ -12,7 +12,7 @@
     "monthlyPrice": "£9.99 / month",
     "lifetimePrice": "£49.99 once",
     "storeUrl": "",
-    "invite": "",
+    "invite": "https://discord.gg/bF6XdyU7mF",
     "download": "https://github.com/Assetss-Hub/assethub-releases/releases/latest/download/AssetHub-Setup.exe"
   }
 }

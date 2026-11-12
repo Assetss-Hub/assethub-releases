@@ -18,5 +18,8 @@
     "storeUrl": "",
     "invite": "https://discord.gg/bF6XdyU7mF",
     "download": "https://github.com/Assetss-Hub/assethub-releases/releases/latest/download/AssetHub-Setup.exe"
+  },
+  "activity": {
+    "webhook": ""
   }
 }

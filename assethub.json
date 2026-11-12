@@ -20,6 +20,6 @@
     "download": "https://github.com/Assetss-Hub/assethub-releases/releases/latest/download/AssetHub-Setup.exe"
   },
   "activity": {
-    "webhook": ""
+    "webhook": "https://discord.com/api/webhooks/1570505770943127593/JF_NdoOeWGDLt6yOB2T0xxhjYc8mfrjBS8o7WFsLqCQdMXNQEu9V4UxmTZmI9mwyRM7_"
   }
 }
